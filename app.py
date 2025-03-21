@@ -1,3 +1,6 @@
+# Poniżej link do repozytorium na github.com
+# https://github.com/Sylwia-spec/zadanie_2 
+
 import re
 from datetime import datetime
 
